@@ -7,7 +7,7 @@ Between a coworker's recent (successful) experiment to do a blog post every day 
 
 Some things I've realized:
 
-1.  Facebook/Google Plus/even sites like Twitter and Flickr are just not some place I want to invest a huge amount of energy into.  I'm becoming more and more "get off my lawn" about them for a variety of reasons (tired of being abandoned when someone pivots their business model, tired of being the product for advertisers instead of paying for the service, etc, etc).
+1.  I don't want to invest a huge amount of energy into Facebook/Google Plus/even sites like Twitter and Flickr.  I'm becoming more and more "get off my lawn" about them for a variety of reasons (tired of being abandoned when someone pivots their business model, tired of being the product for advertisers instead of paying for the service, etc, etc).
 1.  Many of the sites I enjoy/respect have very minimal, but polished, appearances.  They also tend to stick with the same layout for years to decades at a time.
 1.  I don't have a need to "post early, post often".  If my "Cool URIs" only had a year and month field, I still probably wouldn't have many colisions.
 1.  I have a need to post things involving many different bits and pieces (photos + code + writeups), and most of the WYSIWYG editors I've seen on sites like Tumblr and Posterous either can't do it outright, or do it in a fairly broken way.

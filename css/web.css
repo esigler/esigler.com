@@ -48,6 +48,10 @@ h1, h2, p, li {
 	line-height: 150%;
 }
 
+li {
+  text-align: left;
+}
+
 #sitenav ul {
   margin: 0;
   padding: 0;
