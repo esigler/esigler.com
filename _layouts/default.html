@@ -1,11 +1,26 @@
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+<html lang="en">
 <head>
-   <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+   <meta charset="utf-8" />
    <title>esigler.com - {{ page.title }}</title>
-   <meta name="author" content="Eric Sigler" />
+   <link rel="stylesheet" href="/css/web.css" />
 </head>
 <body>
-{{ content }}
+    <div id="content">
+        {{ content }}
+        <nav>
+            <ul id="sitenav">
+              <li><a href="">Cooking</a> - </li>
+              <li><a href="">Crafting</a> - </li>
+              <li><a href="">Devops</a> - </li>
+              <li><a href="">Traveling</a> - </li>
+              <li><a href="">Writing</a></li>
+            </ul>
+        </nav>
+        <hr />
+        <address>
+            <a href="mailto:esigler@gmail.com">esigler@gmail.com</a>
+        </address>
+    </div>
 </body>
 </html>

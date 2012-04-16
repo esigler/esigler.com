@@ -1,0 +1,16 @@
+---
+layout: default
+title: 30 Days
+category: meta
+---
+Between a coworker's recent (successful) experiment to do a blog post every day for 30 days, and the need to post various code fragments and kitchen experiments, I've been pondering my personal posting preferences.
+
+Some things I've realized:
+
+1.  Facebook/Google Plus/even sites like Twitter and Flickr are just not some place I want to invest a huge amount of energy into.  I'm becoming more and more "get off my lawn" about them for a variety of reasons (tired of being abandoned when someone pivots their business model, tired of being the product for advertisers instead of paying for the service, etc, etc).
+1.  Many of the sites I enjoy/respect have very minimal, but polished, appearances.  They also tend to stick with the same layout for years to decades at a time.
+1.  I don't have a need to "post early, post often".  If my "Cool URIs" only had a year and month field, I still probably wouldn't have many colisions.
+1.  I have a need to post things involving many different bits and pieces (photos + code + writeups), and most of the WYSIWYG editors I've seen on sites like Tumblr and Posterous either can't do it outright, or do it in a fairly broken way.
+1.  However, I'd still much rather someone else run the server that's hosting my pages.  It's been 4 years since I ran a personal server full time on the Internet, and I'd rather not start that back up again.
+
+For now, I'm going to go with the combination of Github Pages + Markdown + Jekyll and see if it feels better or worse than the previous itany of service providers that have all gone down the Geocities route.
