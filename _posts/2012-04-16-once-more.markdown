@@ -3,7 +3,7 @@ layout: default
 title: 30 Days
 category: meta
 ---
-Between a coworker's recent (successful) experiment to do a blog post every day for 30 days, and the need to post various code fragments and kitchen experiments, I've been pondering my personal posting preferences.
+Between a coworker's recent successful experiment to do a blog post every day for 30 days, and the need to post various code fragments and kitchen experiments, I've been pondering my personal posting preferences.
 
 Some things I've realized:
 
