@@ -1,0 +1,12 @@
+---
+layout: default
+title: cooking
+---
+{% for post in site.categories.cooking %}
+<article>
+    <header>
+        <h1><a rel="bookmark" title="{{ post.title }}" href="{{ post.url }}"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_long_string }}</time></a></h1>
+    </header>
+    {{ post.content }}
+</article>
+{% endfor %}
