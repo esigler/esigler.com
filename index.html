@@ -2,16 +2,13 @@
 layout: default
 title: homepage
 ---
-{% for post in site.posts %}
-<article>
-    <header>
-        <h1><a rel="bookmark" title="{{ post.title }}" href="{{ post.url }}"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_long_string }}</time></a></h1>
-    </header>
-    {{ post.content }}
-</article>
-{% endfor %}
-
 <header>
-    <h1>esigler.com</h1>
-    <p>Artisanal markup and hand crafted snark, for your enjoyment.</p>
+  <h1>esigler.com</h1>
 </header>
+
+<p>My time is consumed by:</p>
+<ul>
+  <li><a href="">Working on web infrastructure</a></li>
+  <li><a href="">Cooking inordinately complicated dishes</a></li>
+  <li><a href="">Randomly wandering various places in the world</a></li>
+</ul>
