@@ -7,7 +7,7 @@ My time is consumed by:
 
 * [Working to make technical recruiting better][1]
 * [Cooking inordinately complicated dishes][2]
-* [Randomly wandering various places in the world][3]
+* [Randomly wandering various places around the world][3]
 
 In the past, I've been known to:
 
@@ -15,5 +15,5 @@ In the past, I've been known to:
 
 [1]: http://www.whitetruffle.com
 [2]: /2012/04/17/cupcake-plants/
-[3]: /vietnam/
+[3]: /travel.html
 [4]: /balloon.html
