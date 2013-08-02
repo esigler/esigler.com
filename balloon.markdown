@@ -3,7 +3,7 @@ layout: default
 title: balloons
 heading: High Altitude Balloons
 ---
-Nowadays, you can often find high school science projects to send a cell phone (or similar) up into the sky on a cheap weather balloon. Shortly before it became fashionable (and easy) to do, a few coworkers and I set out to see how hard it would be.
+Nowadays, you can often find high school science projects to send a cell phone (or similar) up into the sky on a cheap weather balloon. Shortly before it became fashionable (and much easier!) to do, a few coworkers and I set out to see how hard it would be.
 
 ## First launch: September 23rd, 2007
 
