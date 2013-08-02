@@ -9,6 +9,11 @@ My time is consumed by:
 * [Cooking inordinately complicated dishes][2]
 * [Randomly wandering various places in the world][3]
 
+In the past, I've been known to:
+
+* [Build and fly high altitude balloons][4]
+
 [1]: http://www.whitetruffle.com
 [2]: /2012/04/17/cupcake-plants/
 [3]: /vietnam/
+[4]: /balloon.html
