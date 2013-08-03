@@ -7,6 +7,7 @@ heading: Traveling
 Inside the United States, I've lived or spent significant time in:
 
 * Castle Rock, CO
+* Chicago, IL
 * Council Bluffs, IA
 * Kansas City, MO
 * Littleton, CO

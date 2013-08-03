@@ -7,7 +7,7 @@ My time is consumed by:
 
 * [Working to make technical recruiting better][1]
 * [Cooking inordinately complicated dishes][2]
-* [Randomly wandering various places around the world][3]
+* [Wandering various places around the world][3]
 
 In the past, I've been known to:
 
