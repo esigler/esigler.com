@@ -10,7 +10,18 @@ Nowadays, you can often find high school science projects to send a cell phone (
 * Peak altitude: 96,645 feet (29.45 kilometers)
 * Distance traveled: 63.6 miles (102.35 kilometers)
 
+![Getting ready to launch][tarmac]
+![10k feet over Missouri][missouri]
+
 ## Second launch: August 28th, 2010
 
 * Peak altitude: 107,854 feet (32.87 kilometers)
 * Distance traveled: 29.4 miles (47.31 kilometers)
+
+![More launch prep][shadow]
+![107,854 feet][space]
+
+[tarmac]: /photos/IMG_4750.JPG
+[shadow]: /photos/IMG_4761.JPG
+[missouri]: /photos/IMG_4795.JPG
+[space]: /photos/IMG_4891.JPG
