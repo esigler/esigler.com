@@ -19,9 +19,10 @@ Nowadays, you can often find high school science projects to send a cell phone (
 * Distance traveled: 29.4 miles (47.31 kilometers)
 
 ![More launch prep][shadow]
-![107,854 feet][space]
+[![107,854 feet][space]][spacelarge]
 
 [tarmac]: /photos/IMG_4750.JPG
 [shadow]: /photos/IMG_4761.JPG
 [missouri]: /photos/IMG_4795.JPG
-[space]: /photos/IMG_4891.JPG
+[space]: /photos/IMG_4891.thumb.png
+[spacelarge]: /photos/IMG_4891.png
