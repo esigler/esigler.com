@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Cupcake plants
+title: Concealed Cupcakes
+heading: Concealed Cupcakes
 category: cooking
 ---
 A recent experiment in concealed cupcakes.
