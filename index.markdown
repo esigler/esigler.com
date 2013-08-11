@@ -15,6 +15,6 @@ In the past, I've been known to:
 * [Build and fly high altitude balloons][4]
 
 [1]: http://www.whitetruffle.com
-[2]: /2012/04/17/cupcake-plants/
+[2]: /cooking.html
 [3]: /travel.html
 [4]: /balloon.html
