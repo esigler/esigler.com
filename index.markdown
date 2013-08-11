@@ -2,6 +2,7 @@
 layout: default
 title: homepage
 heading: Eric Sigler
+category: none
 ---
 My time is consumed by:
 

@@ -2,6 +2,7 @@
 layout: default
 title: contact
 heading: Contact Information
+category: none
 ---
 Places you can find me elsewhere on the web:
 
