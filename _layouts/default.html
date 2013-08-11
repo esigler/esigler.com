@@ -11,11 +11,13 @@
     <header>
       <h1>{{ page.heading }}</h1>
       {% if page.category == "top" %}
-      <p>Part of <a href="/">esigler.com</a></p>
+      <p><em>Part of <a href="/">esigler.com</a></em></p>
       {% elsif page.category == "project" %}
-      <p>Part of <a href="/projects.html">Projects</a></p>
+      <p><em>Part of <a href="/projects.html">Projects</a></em></p>
       {% elsif page.category == "travel" %}
-      <p>Part of <a href="/travel.html">Traveling</a></p>
+      <p><em>Part of <a href="/travel.html">Traveling</a></em></p>
+      {% elsif page.category == "cooking" %}
+      <p><em>Part of <a href="/cooking.html">Cooking</a></em></p>
       {% endif %}
     </header>
 {{ content }}
