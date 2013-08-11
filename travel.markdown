@@ -2,7 +2,7 @@
 layout: default
 title: traveling
 heading: Traveling
-category: travel
+category: top
 ---
 
 Inside the United States, I've lived or spent significant time in:

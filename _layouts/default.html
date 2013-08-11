@@ -10,8 +10,12 @@
   <body>
     <header>
       <h1>{{ page.heading }}</h1>
-      {% if page.category != "none" %}
-      <h2>Part of <a href="/{{ page.category }}.html">{{ page.category }}</a></h2>
+      {% if page.category == "top" %}
+      <p>Part of <a href="/">esigler.com</a></p>
+      {% elsif page.category == "project" %}
+      <p>Part of <a href="/projects.html">Projects</a></p>
+      {% elsif page.category == "travel" %}
+      <p>Part of <a href="/travel.html">Traveling</a></p>
       {% endif %}
     </header>
 {{ content }}
