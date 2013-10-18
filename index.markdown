@@ -6,15 +6,15 @@ category: none
 ---
 My time is consumed by:
 
-* [Working to make technical recruiting better][1]
-* [Cooking inordinately complicated dishes][2]
-* [Wandering various places around the world][3]
+* [Cooking complicated dishes][2]
+* [Wandering around the world][3]
 
 In the past, I've been known to:
 
-* [Build and fly high altitude balloons][4]
+* [Fly high altitude balloons][4]
+* Build autonomous blimps
+* Go overboard on organizing my office
 
-[1]: http://www.whitetruffle.com
 [2]: /cooking.html
 [3]: /travel.html
 [4]: /balloon.html
