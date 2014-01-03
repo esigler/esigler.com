@@ -16,7 +16,12 @@ In the past, I've been known to:
 * Build autonomous blimps
 * Go overboard on organizing my office
 
+New:
+
+* [2014 Goals][5]
+
 [1]: http://www.pagerduty.com
 [2]: /cooking.html
 [3]: /travel.html
 [4]: /balloon.html
+[5]: /2014/01/01/goals.html

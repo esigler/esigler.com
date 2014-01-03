@@ -1,0 +1,37 @@
+---
+layout: default
+title: 2014 Goals
+heading: 2014 Goals
+category: personal
+---
+Setting goals for the new year, and then breaking them within a few months, is a time honored tradition that has been going on [all the way back to the Romans][resolutions].  I've fallen into the same trap as many others, telling myself "[this year's gonna be different][xkcd]".  Over time, I've tried to figure out how to make goals I actually achieve by the end of the year.  This year, the rules I've come up with (using [RFC 2119][rfc] style) to keep myself on track, are that a goal:
+
+ # MUST be definitive.
+ # SHOULD be quantifiable.
+ # MUST be accomplishable.
+ # SHOULD NOT rely upon others to complete.
+ # MUST be published.
+ # MUST NOT be discussed in public.
+
+The first challenge is setting goals that are reasonable, but a stretch.  The mantra "[you can't improve what you can't measure][measure]" seems reasonable, but is difficult in practice.  Some of my goals for this year then are based on data I collected in 2013, some are based on things I know I should track more carefully, and some are based on personal preferences entirely.
+
+The second challenge is publishing something but not discussing it.  In the past, I've gotten bit by talking up something before I actually did it.  My solution this year, is to publish an obscured version of the goal at the beginning of the year, and publish the unobscured version at the end.  That way, I'm held accountable, but I don't get the [mirror neuron warm fuzzy][neurons] from talking about it before it's actually done.
+
+So, for 2014 my goals are:
+
+ # 500debdc1fdad5a6b41145293a4c067ccda536026054e601e785f4b8ee495b8e
+ # c80d1f53fae81b6bde6255eb6be6c78d9437cfb36100d266049dda0e36a31a29
+ # ed7beac7d4152ccd8e02cb121547a7e43054db85998c1f840244db35ce542a0c
+ # 341114e845a404bbb7d7307b10ab143038f09a42a8dc6905134f9bb832be2d3d
+ # 1f814564730a306d48fd14b7c173f8ff50e06199037671e71fe6f08f7b13e527
+ # 59f9087cd95d7c9e1990dd269c986176450a391ece65a855db44ea410dc869f8
+ # fb8c95364b02d6373a8c300f38afd517919d9aca7a68ac34eb4c9c0f54137cf2
+ # 2f8a99bd8d4a384fac704e0e36055698f02f4bc8f56ce2cd81131bb54469e83a
+
+These were encoded with SHA256 & a salt.  I'll publish the salt & the original text after December 31st, 2014, along with a report card scoring how well I met each goal.  Happy 2014!
+
+[resolutions]: http://en.wikipedia.org/wiki/New_Year's_resolution "No, really."
+[rfc]: http://www.ietf.org/rfc/rfc2119.txt "I still think KINDA and MAYBE would be helpful"
+[neurons]: http://sivers.org/zipit "Don't Google 'mirror neuron goal setting' unless you want to be depressed"
+[xkcd]: http://xkcd.com/1154/ "Obligatory XKCD reference"
+[measure]: http://en.wikipedia.org/wiki/W._Edwards_Deming "Yes, yes, I know its a misquote"
