@@ -24,4 +24,4 @@ New:
 [2]: /cooking.html
 [3]: /travel.html
 [4]: /balloon.html
-[5]: /2014/01/01/goals.html
+[5]: /2014/01/01/goals/

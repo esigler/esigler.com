@@ -18,4 +18,4 @@ Of course, it's not all roses.  There were some not-so-great things this year, s
 
 Meanwhile, I think it's time to [plan for 2014][2014].
 
-[2014]: /2014/01/01/goals.html "World domination is surprisingly not on the list this year"
+[2014]: /2014/01/01/goals/ "World domination is surprisingly not on the list this year"
