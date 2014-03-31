@@ -1,0 +1,65 @@
+==================================================================
+https://keybase.io/esigler
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://esigler.com
+  * I am esigler (https://keybase.io/esigler) on keybase.
+  * I have a public key with fingerprint 0CA7 424F BE7D 2CD9 86BE  4C2F ADC6 5027 3510 8A9F
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "0ca7424fbe7d2cd986be4c2fadc6502735108a9f",
+            "host": "keybase.io",
+            "key_id": "ADC6502735108A9F",
+            "uid": "2a319125e6ec8fc2cbbdb2351ffa1e00",
+            "username": "esigler"
+        },
+        "service": {
+            "hostname": "esigler.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1396241487,
+    "expire_in": 157680000,
+    "prev": "3bb23da710c4e5c42dda58e6a70d5aa5493f6c3dde365882306c9d095bb0018e",
+    "seqno": 4,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG/MacGPG2 v2.0.22 (Darwin)
+Comment: GPGTools - http://gpgtools.org
+
+owGbwMvMwMW4wd68WcLW3ovx9IH3SQzBFl/8q5WS8lMqlayqlbJTwVRaZl56alFB
+UWZeiZKVkkFyormJkUlaUqp5ilFyiqWFWVKqSbJRWmJKspmpgZG5samhgUWiZZqS
+jlJGfjFIB9CYpMTiVL3MfKAYkBOfmQIUdXRxRqh3tHQDypWCJYwSjQ0tDY1MU81S
+ky3Sko2Sk5JSkoyAytLSEg1TDQxACotTi/ISc1OBqlOLM9NzUouUanWUgIJlmcmp
+ICeDbEZVoJecnwvUWVCUX5KfnJ8DlMgoKSmwAukrqSwAKSxPTYqHGhGflJmXAvQ1
+UENZalFxZn6ekpUhUGVySSbITENjSzMjE0MTC3MdpdSKgsyi1PhMkApTczMLAyAA
+WZNaBjTSOAno8JREc0ODZJNU02QTo5SURFOLVLNEc4MU08REUxNL4zSzZOOUlFRj
+M1MLCyNjA7NkyxQDS9OkJAMDQ4tUJZCnCvPylaxMgM5MTAcaCfRNXmJJaVGqUm0n
+owwLAyMXAxsrEyjeGLg4BWCx+X0t+//ks7a5CYzzvSY9XaC+95bc8eAK54crdkbq
+nu3N0WdkuMezwn3jL4+8xUcuvat4uuaBQVFUqeCEeU2tzhyPfTquxE5O8TretCHE
+JXnGIoW624opBTPi9qRGB4dxcn3bJi99/e6imz2awW3si9v/b3XwjP2icTbrq/yy
+yqYpx5ml9TSTZ83QEjdfKWhut67B/NXfputirimiO79emJKv2Mmwv/rjY2GmWiWZ
+efU7lHc4OziKfJz85hRn4dsZNy9prE8QvLk9PUUle4N/2ufKHPG8t8fnbnLUOlRl
+q3WgbGJX2iLR8p4t55U25v0542YvXVByilOKu5L36oL8/nAVzgc6EjOObQi463Tu
+LecEDwA=
+=Rg5q
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/esigler
+
+==================================================================
