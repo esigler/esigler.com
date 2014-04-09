@@ -1,1 +1,1 @@
-This is the repo for my personal site.
+This is the git repo for my personal site.
