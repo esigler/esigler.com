@@ -15,10 +15,7 @@ In the past, I've been known to:
 * [Fly high altitude balloons][4]
 * Build autonomous blimps
 * Go overboard on organizing my office
-
-New:
-
-* [2014 Goals][5]
+* Set [annual goals][5]
 
 [1]: http://www.pagerduty.com
 [2]: /cooking.html
