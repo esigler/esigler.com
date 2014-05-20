@@ -24,6 +24,7 @@ Inside the United States, I've lived or spent significant time in:
 
 Outside the US, I've been to:
 
+* Amsterdam, Netherlands
 * Bangkok, Thailand
 * Beijing, China
 * Cai Be, Vietnam
@@ -34,10 +35,12 @@ Outside the US, I've been to:
 * Hong Kong
 * Kyoto, Japan
 * London, England
+* Oslo, Norway
 * Paris, France
 * Rome, Italy
 * Saigon, Vietnam
 * Shanghai, China
+* Stockholm, Sweeden
 * Taipei, Taiwan
 * Tokyo, Japan
 * Vancouver, BC
