@@ -43,4 +43,5 @@ Outside the US, I've been to:
 * Stockholm, Sweeden
 * Taipei, Taiwan
 * Tokyo, Japan
-* Vancouver, BC
+* Toronto, Canada
+* Vancouver, Canada
