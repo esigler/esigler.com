@@ -27,10 +27,12 @@ Outside the US, I've been to:
 * Amsterdam, Netherlands
 * Bangkok, Thailand
 * Beijing, China
+* Berlin, Germany
 * Cai Be, Vietnam
 * Cork, Ireland
 * Dubai, UAE
 * Dublin, Ireland
+* Ghent, Brussles
 * Hanoi, Vietnam
 * Hong Kong
 * Kyoto, Japan
