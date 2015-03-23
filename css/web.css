@@ -2,3 +2,20 @@ body {
   font-family: Verdana, Geneva, sans-serif;
   font-size: small;
 }
+
+#content {
+  padding: 15px 30px 0 0;
+}
+
+#main-content {
+  margin-left: 286px;
+  max-width: 600px;
+}
+
+#photo {
+  width: 256px;
+  float: left;
+  padding: 0 0 0 15px;
+}
+
+.clear { clear: both; }

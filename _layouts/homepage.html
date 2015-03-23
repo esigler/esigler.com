@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>esigler.com - {{ page.title }}</title>
+    <link rel="stylesheet" href="/css/web.css" />
+    <meta name="author" content="Eric Sigler">
+    <link rel="alternate" type="application/atom+xml" title="Feed" href="http://feeds.feedburner.com/esiglerdotcom">
+  </head>
+  <body>
+    <header>
+      <h1>{{ page.heading }}</h1>
+    </header>
+    <div id="content">
+      <div id="photo">
+        <img src="/photos/rocks.jpg" width="256" height="382" />
+      </div>
+      <div id="main-content">
+{{ content }}
+      </div>
+      <div class="clear"></div>
+    </div>
+    <hr />
+    <footer>
+      <address>
+        <a href="mailto:me@esigler.com">me@esigler.com</a> (<a href="/misc/esigler_pub.asc">PGP</a>) or <a href="/contact.html">elsewhere</a>
+      </address>
+    </footer>
+  </body>
+</html>
