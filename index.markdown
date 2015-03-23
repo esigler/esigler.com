@@ -18,6 +18,7 @@ I've been known to:
 * Build autonomous blimps
 * Go overboard on organizing my office
 * Set [annual goals][5]
+* [Speak at various conferences][8]
 
 [1]: http://www.pagerduty.com
 [2]: /cooking.html
@@ -26,3 +27,4 @@ I've been known to:
 [5]: /2014/01/01/goals/
 [6]: /chatops.html
 [7]: /gardening.html
+[8]: /speaking.html
