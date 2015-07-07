@@ -17,7 +17,6 @@ I've been known to:
 * [Fly high altitude balloons][4]
 * Build autonomous blimps
 * Go overboard on organizing my office
-* Set [annual goals][5]
 * [Speak at various conferences][8]
 
 [1]: http://www.pagerduty.com
