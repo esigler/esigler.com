@@ -29,6 +29,7 @@ Outside the US, I've been to:
 * Beijing, China
 * Berlin, Germany
 * Cai Be, Vietnam
+* Copenhagen, Denmark
 * Cork, Ireland
 * Dubai, UAE
 * Dublin, Ireland
