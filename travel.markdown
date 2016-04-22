@@ -38,6 +38,7 @@ Outside the US, I've been to:
 * Hong Kong
 * Kyoto, Japan
 * London, England
+* Osaka, Japan
 * Oslo, Norway
 * Paris, France
 * Rome, Italy
