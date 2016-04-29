@@ -20,10 +20,10 @@ I've been known to:
 * [Speak at various conferences][8]
 
 [1]: http://www.pagerduty.com
-[2]: /cooking.html
-[3]: /travel.html
-[4]: /balloon.html
+[2]: /cooking
+[3]: /travel
+[4]: /balloon
 [5]: /2014/01/01/goals/
-[6]: /chatops.html
-[7]: /gardening.html
-[8]: /speaking.html
+[6]: /chatops
+[7]: /gardening
+[8]: /speaking
