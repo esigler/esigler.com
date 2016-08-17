@@ -1,8 +1,6 @@
 ---
-layout: default
-title: cooking
-heading: Cooking
-category: top
+layout: page
+title: Cooking
 ---
 {% for post in site.posts %}
 {% if post.category == "cooking" %}

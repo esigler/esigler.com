@@ -1,8 +1,6 @@
 ---
-layout: default
+layout: page
 title: contact
-heading: Contact Information
-category: top
 ---
 Places you can find me elsewhere on the web:
 

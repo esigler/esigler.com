@@ -1,8 +1,6 @@
 ---
-layout: default
+layout: page
 title: traveling
-heading: Traveling
-category: top
 ---
 
 Inside the United States, I've lived or spent significant time in:

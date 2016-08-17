@@ -1,8 +1,6 @@
 ---
-layout: default
+layout: page
 title: chatops
-heading: Chatops
-category: top
 ---
 {% for post in site.posts %}
 {% if post.category == "chatops" %}

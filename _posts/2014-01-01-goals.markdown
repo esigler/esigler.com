@@ -1,8 +1,6 @@
 ---
-layout: default
+layout: post
 title: 2014 Goals
-heading: 2014 Goals
-category: personal
 ---
 Setting goals for the new year, and then breaking them within a few months, is a time honored tradition that has been going on [all the way back to the Romans][resolutions].  I've fallen into the same trap as many others, telling myself "[this year's gonna be different][xkcd]".  Over time, I've tried to figure out how to make goals I actually achieve by the end of the year.  This year, the rules I've come up with (using [RFC 2119][rfc] style) to keep myself on track, are that a goal:
 

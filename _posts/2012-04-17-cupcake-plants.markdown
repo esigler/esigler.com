@@ -1,8 +1,6 @@
 ---
-layout: default
+layout: post
 title: Concealed Cupcakes
-heading: Concealed Cupcakes
-category: cooking
 ---
 A recent experiment in concealed cupcakes.
 

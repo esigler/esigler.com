@@ -1,8 +1,6 @@
 ---
-layout: default
+layout: post
 title: Gardening with no space
-heading: Gardening with no space
-category: gardening
 ---
 
 While visiting a friend in St. Louis, he showed off his recent gardening
@@ -22,7 +20,7 @@ Specifially, I got:
 * 2 onion chive plants
 * Potting soil
 
-You'd also need a cutting tool of some kind, a little bit of workspace, and 
+You'd also need a cutting tool of some kind, a little bit of workspace, and
 gloves if you prefer.
 
 I picked spearmint and chives, because both need a moderate amount of sunlight,

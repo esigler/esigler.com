@@ -1,3 +1,19 @@
 permalink: /:year/:month/:day/:title/
 include: [".well-known"]
 markdown: kramdown
+
+# Setup
+title:               esigler.com
+tagline:             'Always outnumbered, never outgeeked.'
+description:         'Ephemera.'
+url:                 https://esigler.com
+baseurl:             ''
+paginate:            5
+
+# About/contact
+author:
+  name:              Eric Sigler
+  url:               https://esigler.com
+  email:             me@esigler.com
+
+gems: [jekyll-paginate]

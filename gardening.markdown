@@ -1,8 +1,6 @@
 ---
-layout: default
+layout: page
 title: gardening
-heading: Gardening
-category: top
 ---
 <ul>
 {% for post in site.posts %}

@@ -1,8 +1,6 @@
 ---
-layout: default
+layout: page
 title: Personal
-heading: Personal
-category: top
 ---
 {% for post in site.posts %}
 {% if post.category == "personal" %}

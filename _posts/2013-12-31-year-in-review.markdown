@@ -1,8 +1,6 @@
 ---
-layout: default
+layout: post
 title: 2013 Year In Review
-heading: 2013 Year In Review
-category: personal
 ---
 Looking back, 2013 was a fantastic year personally, full of new experiences and adventures.  I went the route that it was better to have experiences, than to have material posessions.  I guess it's too early to be certain, but at least right now, that definitely feels like the better choice.  Some of those experiences included:
 

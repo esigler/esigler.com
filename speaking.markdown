@@ -1,8 +1,6 @@
 ---
-layout: default
+layout: page
 title: speaking
-heading: Speaking
-category: top
 ---
 
 ## Previous talks I've given:
