@@ -8,7 +8,7 @@ tagline:             'Always outnumbered, never outgeeked.'
 description:         'Ephemera.'
 url:                 https://esigler.com
 baseurl:             ''
-paginate:            5
+paginate:            1
 
 # About/contact
 author:
