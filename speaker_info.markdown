@@ -5,7 +5,7 @@ title: Speaker Info
 
 ### Photo
 
-<a href="/photos/me_fullsize.jpg"><img src="/photos/me_small.jpg" width="768" height="512" /></a>
+<a href="/photos/me_fullsize.jpg"><img src="/photos/me_small.jpg" /></a>
 (<a href="/photos/me_fullsize.jpg">full-size version</a>)
 
 ## Twitter sized blurb
