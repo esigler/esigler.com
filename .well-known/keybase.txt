@@ -4,57 +4,65 @@ https://keybase.io/esigler
 
 I hereby claim:
 
-  * I am an admin of http://esigler.com
+  * I am an admin of https://esigler.com
   * I am esigler (https://keybase.io/esigler) on keybase.
-  * I have a public key with fingerprint 0CA7 424F BE7D 2CD9 86BE  4C2F ADC6 5027 3510 8A9F
+  * I have a public key with fingerprint 31F4 FFB0 782F D25B EAF5  0771 3420 CEF7 D05F 60E7
 
-To claim this, I am signing this object:
+To do so, I am signing this object:
 
 {
     "body": {
         "key": {
-            "fingerprint": "0ca7424fbe7d2cd986be4c2fadc6502735108a9f",
+            "eldest_kid": "01011e4ad0ec351eaa180f0fa5a8f78e1c7cafee565b1841fdf80063ce9f8e0acbcf0a",
+            "fingerprint": "31f4ffb0782fd25beaf507713420cef7d05f60e7",
             "host": "keybase.io",
-            "key_id": "ADC6502735108A9F",
+            "key_id": "3420cef7d05f60e7",
+            "kid": "01011e4ad0ec351eaa180f0fa5a8f78e1c7cafee565b1841fdf80063ce9f8e0acbcf0a",
             "uid": "2a319125e6ec8fc2cbbdb2351ffa1e00",
             "username": "esigler"
         },
         "service": {
             "hostname": "esigler.com",
-            "protocol": "http:"
+            "protocol": "https:"
         },
         "type": "web_service_binding",
         "version": 1
     },
-    "ctime": 1396241487,
+    "ctime": 1491083322,
     "expire_in": 157680000,
-    "prev": "3bb23da710c4e5c42dda58e6a70d5aa5493f6c3dde365882306c9d095bb0018e",
-    "seqno": 4,
+    "prev": "5d41f7bb283d9bbb2737d4df975a2dfda94c181d998bd71edd543f94ca683df8",
+    "seqno": 11,
     "tag": "signature"
 }
 
-with the aforementioned key, yielding the PGP signature:
+which yields the signature:
 
 -----BEGIN PGP MESSAGE-----
-Version: GnuPG/MacGPG2 v2.0.22 (Darwin)
-Comment: GPGTools - http://gpgtools.org
+Version: GnuPG v2
 
-owGbwMvMwMW4wd68WcLW3ovx9IH3SQzBFl/8q5WS8lMqlayqlbJTwVRaZl56alFB
-UWZeiZKVkkFyormJkUlaUqp5ilFyiqWFWVKqSbJRWmJKspmpgZG5samhgUWiZZqS
-jlJGfjFIB9CYpMTiVL3MfKAYkBOfmQIUdXRxRqh3tHQDypWCJYwSjQ0tDY1MU81S
-ky3Sko2Sk5JSkoyAytLSEg1TDQxACotTi/ISc1OBqlOLM9NzUouUanWUgIJlmcmp
-ICeDbEZVoJecnwvUWVCUX5KfnJ8DlMgoKSmwAukrqSwAKSxPTYqHGhGflJmXAvQ1
-UENZalFxZn6ekpUhUGVySSbITENjSzMjE0MTC3MdpdSKgsyi1PhMkApTczMLAyAA
-WZNaBjTSOAno8JREc0ODZJNU02QTo5SURFOLVLNEc4MU08REUxNL4zSzZOOUlFRj
-M1MLCyNjA7NkyxQDS9OkJAMDQ4tUJZCnCvPylaxMgM5MTAcaCfRNXmJJaVGqUm0n
-owwLAyMXAxsrEyjeGLg4BWCx+X0t+//ks7a5CYzzvSY9XaC+95bc8eAK54crdkbq
-nu3N0WdkuMezwn3jL4+8xUcuvat4uuaBQVFUqeCEeU2tzhyPfTquxE5O8TretCHE
-JXnGIoW624opBTPi9qRGB4dxcn3bJi99/e6imz2awW3si9v/b3XwjP2icTbrq/yy
-yqYpx5ml9TSTZ83QEjdfKWhut67B/NXfputirimiO79emJKv2Mmwv/rjY2GmWiWZ
-efU7lHc4OziKfJz85hRn4dsZNy9prE8QvLk9PUUle4N/2ufKHPG8t8fnbnLUOlRl
-q3WgbGJX2iLR8p4t55U25v0542YvXVByilOKu5L36oL8/nAVzgc6EjOObQi463Tu
-LecEDwA=
-=Rg5q
+owGtkm1QFVUYxy8KBZcXGZzEAWxgTZwYvO3ZvXt37wZmGpCRjaKkXGVu+3IOrMDu
+9b7x7lQOMxIfREdIBhsDfMMhSphBiWSwIDMpxXiRl5LIsiAUlQmmmOwsUx+a6WOf
+zjnP+f9/5/k/cyqDlxr8fdIbwraoe0ZJn2u/iIZd49HriwlRkwsJvpjIgYsLzJWh
+y23PUWSCJ0hAAgDNgkxCiWYAFATAkYhEAiNwiOUgkFhJQBAyFkYEnBkgGXEkaaEl
+aEUcJAVJlBApEPEEUtQs6HQ4FdWNsTRAZoREkuUoJFOMCAXEkCwLaDNFShCxMskg
+CwlZbMzWXLoDNycKLmhSNFzDB/tie/+h/5/79iziKIEGVkAx0AIlDkmUJIqySGEw
+QgKAJKkLXdCpCnkQq6FLycqFTqI0nsBFryJBfa56kH8LTJKWh50Op+bWJC0XX2S7
+3Q4XrxvdhQ5dmQ9F+98Mu6ioMp4idnih06VoKsEDrJTcig4FZisgOZqmqHgCFjgU
+J7QruoJhLTgZServQC9GMjKOy4oitZOjZauINyzNymYZWVlGoGQkC1azBDggW62c
+KLMAyjJjphEuChbsQByhx9qnahgOcKNCFobiQKrg9jghUWosXxLla/DxNzzht0T/
+YAZjQOg/v+7MhWWPt+wO317/Xt34jYyeS+ds7UFn9iXtIubqjrUdnVi1U5obyuvr
+PtR0fNa/or2+UGzbdqWiZGTrxoKFxM518MkP704/aC3ZXOXVtnXtvRAxaxtMOjH5
+ytXpwMFXv48+NpMwc83ezTedqx4PGWtZ1efxWd7hLRow/ZCaOpKdNmTcEWSvmeU3
+hVze2mOrYA2NdAx/JaBuZf/LDxq783wjPzkoDK9eun9ULRq+NTCf4X2aTeb52xHB
+Lad+DVxfdfPSnQV3411P6vLhn969HNgPfl+RLJs7vztPa/3lTGzI2aN+H2e2ZxW3
+suueB4PG20ROcdzIzTV/xqXdevTByg6q7qPS+KbjmXcs5Qu2xKDNanNifM1B9o+m
+3tgNDyfq+31TNgWYOu8HFSmfmtLqx78+XBXdIgY4Qg/vcPTGacmvtZvhya656qrr
+9w7EhDX/LPp1UxF1+Rte51682tO2MPXs6eGoU7b5NzIY21DD6Qz76MTaiyfSzxdd
+LBlISlhDtKVpawu2R/RUnkzfS24sm3mh7KXc+1HWvhUTMdmehwlP7U+wRD4u5JPH
+3kn56tG3/UeowIawqRu7jaFfhH8WPNU6zz9zpPabtyr3iAdCZs7++Bs9Gev5fLq2
+tlwBDb1qWXCHsbSrYuhQjNX25uTB9PcznuMjU6jreffCod3UrhQ3+y8brrbU1Pu8
+/eVYfuZf
+=JNr/
 -----END PGP MESSAGE-----
 
 And finally, I am proving ownership of this host by posting or
@@ -63,3 +71,4 @@ appending to this document.
 View my publicly-auditable identity here: https://keybase.io/esigler
 
 ==================================================================
+
