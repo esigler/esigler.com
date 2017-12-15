@@ -1,46 +1,53 @@
----
-layout: basic
-title: Home
----
+<!DOCTYPE html>
+<html>
+  <head>
+  <style>
+  body, html {
+    height: 100%;
+    margin: 0;
+    font: 400 15px/1.8 "Lato", sans-serif;
+    color: #777;
+  }
 
-<div class="posts">
-  <div class="post">
-    <h3 class="post-title">Contact</h3>
-    <ul>
-      <li>@esigler on <a href="https://twitter.com/esigler">Twitter</a>, <a href="https://github.com/esigler">GitHub</a>, and <a href="https://instagram.com/esigler">Instagram</a></li>
-      <li><a href="mailto:me@esigler.com">me@esigler.com</a> (<a href="https://keybase.io/esigler">keybase.io</a>)</li>
-    </ul>
-    <h3 class="post-title">Presentations</h3>
-    <p><strong>2017</strong></p>
-    <ul>
-      <li>Instrumenting The Rest Of The Company: Hunting For Metrics (<a href="https://speakerdeck.com/esigler/instrumenting-the-rest-of-the-company-hunting-for-metrics">slides</a>, <a href="https://vimeo.com/221057828">video</a>)</li>
-    </ul>
-    <p><strong>2016</strong></p>
-    <ul>
-      <li>Humans are terrible compilers: A User's Guide (<a href="https://speakerdeck.com/esigler/humans-are-terrible-compilers-a-users-guide">slides</a>, <a href="https://www.youtube.com/watch?v=7Yg49ukhGwA">video</a>)</li>
-      <li>Do You Know If Your Service Is Working Properly? A Guide To Being Paranoid. (<a href="https://speakerdeck.com/esigler/do-you-know-if-your-service-is-working-properly-a-guide-to-being-paranoid">slides</a>, <a href="https://www.youtube.com/watch?v=8KMyHbywM6s">video</a>)</li>
-      <li>"Is there any strong objection?" (<a href="https://speakerdeck.com/esigler/is-there-any-strong-objection">slides</a>, <a href="https://youtu.be/Kp5TeecbcsQ">video</a>)</li>
-      <li>Fear, Uncertainty, and Continuous Deployment (<a href="https://speakerdeck.com/esigler/fear-uncertainty-and-continuous-deployment">slides</a>)</li>
-      <li>3AM, a survey. (<a href="https://speakerdeck.com/esigler/3am-a-survey">slides</a>, <a href="https://www.youtube.com/watch?v=uwoOeXTMgak">video</a>)</li>
-      <li>Strategies For Being On Call &amp; Keeping Your Sanity At The Same Time (<a href="https://speakerdeck.com/esigler/strategies-for-being-on-call-and-keeping-your-sanity-at-the-same-time">slides</a>)</li>
-    </ul>
-    <p><strong>2015 & earlier</strong></p>
-    <ul>
-      <li>Engineering for Engineers (<a href="https://speakerdeck.com/esigler/engineering-for-engineers">slides</a>, <a href="https://www.youtube.com/watch?v=XF8yvrCcf8w">video</a>)</li>
-      <li>Living In The Future With ChatOps (<a href="https://speakerdeck.com/esigler/living-in-the-future-with-chatops">slides</a>, <a href="https://www.youtube.com/watch?v=Heo5YtRikds">video</a>)</li>
-    </ul>
-    <h3 class="post-title">Projects</h3>
-    <ul>
-      <li><a href="https://github.com/esigler/utf">Infrastructure recipes</a> for agents training against OpenAI's Universe</li>
-      <li>ChatOps plugins such as <a href="https://github.com/esigler/lita-jira">lita-jira</a>, <a href="https://github.com/esigler/lita-locker">lita-locker</a>, <a href="https://github.com/esigler/lita-dig">lita-dig</a>, and others.</li>
-      <li>Open source <a href="https://response.pagerduty.com">Incident Response</a> documentation</li>
-    </ul>
-    <h3 class="post-title">Other</h3>
-    <ul>
-      <li>pagerduty.com: <a href="https://www.pagerduty.com/blog/what-is-chatops/">What is ChatOps? And How do I Get Started?</a></li>
-      <li>cio.com: <a href="http://www.cio.com/article/3119685/it-skills-training/career-roadmap-making-a-career-in-devops.html">Career Roadmap: Making a career in DevOps</a>
-      <li><a href="https://www.google.com/patents/US9467970">US9467970 B1</a>: Robust routing and delivery of notifications</li>
-    </ul>
-  </div>
-</div>
+  .bgimg-1, .bgimg-2, .bgimg-3 {
+    position: relative;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 
+  }
+  .bgimg-1 {
+    background-image: url("photos/cover.png");
+    height: 100%;
+  }
+
+  .caption {
+    position: absolute;
+    left: 30%;
+    top: 50%;
+    width: 100%;
+    text-align: left;
+    opacity: 0.85;
+    color: #000;
+  }
+
+  .caption span.border {
+    background-color: #111;
+    color: #fff;
+    padding: 18px;
+    font-size: 25px;
+    letter-spacing: 10px;
+  }
+
+  </style>
+  </head>
+  <body>
+    <div class="bgimg-1">
+      <div class="caption">
+        <span class="border">ESIGLER.COM</span><br>
+        <span class="border"><a href="speaker_info">BASIC INFO</a></span><br>
+        <span class="border"><a href="timeline">SITE TIMELINE</a></span>
+      </div>
+    </div>
+  </body>
+</html>
